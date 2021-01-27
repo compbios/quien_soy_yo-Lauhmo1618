@@ -1,10 +1,9 @@
 # Quien soy?
 ## Laura Orozco
 
-### 3008860590
+
 ### Cajica, Cundinamarca, Colombia 
-### lauh.mo1618@gmail.com / l_orozco@javeriana.edu.co
-### [LinkedIn profile](https://www.linkedin.com/feed/) 
+
 
 <p> Soy una persona responsable, cumplida, comprometida, empatica, ordaneda y estricta. Deseo poder desarrollar habilidades en el area de analisis de datos que me permita desempeñarme como epidemiologa de la mejor forma posible y poder mejorar skills en la comprension de las enfermedades infecciosas bacterianas.<p> 
   
